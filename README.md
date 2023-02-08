@@ -5,8 +5,9 @@ This role cat install Vector on EL
 
 Role Variables
 --------------
-|---------|------------------|
-| vector_version | Version os Vector to install |
+| Variable  |      |
+|:-----|:----|
+| vector_version | Version of Vector to install |
 
 Example Playbook
 ----------------
